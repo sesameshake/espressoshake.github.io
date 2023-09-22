@@ -1,6 +1,8 @@
 ---
-title: About Garth
+title: About Laksa
 ---
+
+Croissant à la Truffle?
 
 A really basic theme for Jekyll, using the official Jekyll theme implementation.
 
